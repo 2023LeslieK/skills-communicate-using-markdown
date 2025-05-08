@@ -16,3 +16,10 @@
 ``` javascript
 var myVar = "Hello, World!";
 ```
+
+###### Example of adding a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
