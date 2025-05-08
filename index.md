@@ -9,3 +9,10 @@
 ###### This image was added along with descriptive text
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+###### Example of adding code
+
+``` javascript
+var myVar = "Hello, World!";
+```
